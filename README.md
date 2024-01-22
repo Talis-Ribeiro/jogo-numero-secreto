@@ -1,2 +1,2 @@
 # jogo-numero-secreto
-Um jogo de adivinhação de números
+Esse é Jogo do Número secreto, um jogo simples mas divertido para passar o tempo...O jogo consiste em adivinhar o número secreto que está entre 0 e 100. o jogo é bem dinâmico e conta com a funcionalidade de ouvir a voz que indica o que deve ser feito mas se preferir não ouvir é só clicar em negar no início do jogo(as dicas ficam em texto e não em voz), após isso é só digitar o seu número escolhido e clicar em chutar e ver se acertou ou não.
